@@ -1,0 +1,21 @@
+{
+  "admin": {
+    "email": "admin@fitbook.com",
+    "password": "Admin@1234",
+    "name": "Admin User",
+    "role": "admin"
+  },
+  "trainer": {
+    "email": "ariana.cole@fitbook.com",
+    "password": "Trainer@123",
+    "name": "Ariana Cole",
+    "role": "trainer"
+  },
+  "member": {
+    "name": "Alex Mercer",
+    "email": "alex.test@example.com",
+    "password": "Password123!",
+    "goal": "build_muscle",
+    "role": "member"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "plan": {
+    "goal": "build_muscle",
+    "daysPerWeek": 3,
+    "schedule": [
+      {
+        "day": "Day 1",
+        "title": "Upper Body Hypertrophy",
+        "focus": "Chest, Back, Arms",
+        "exerciseIds": ["bench-press", "pull-up", "overhead-press"]
+      },
+      {
+        "day": "Day 2",
+        "title": "Lower Body Power",
+        "focus": "Quads, Hamstrings, Calves",
+        "exerciseIds": ["barbell-squat", "romanian-deadlift"]
+      },
+      {
+        "day": "Day 3",
+        "title": "Full Body & Core",
+        "focus": "Compounds & Stability",
+        "exerciseIds": ["deadlift", "push-up", "plank"]
+      }
+    ]
+  }
+}
